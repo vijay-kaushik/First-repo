@@ -1,2 +1,3 @@
 #first file
-Hello
+Hello.
+This is second commit.
